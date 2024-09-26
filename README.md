@@ -19,3 +19,5 @@ The E-Waste Management System aims to educate users about the importance of resp
 1. Clone the repository:
    ```bash
    git clone https://github.com/Vinayyadav1025/E-Waste-management-System
+## Remember
+- In service.html file, you need to add your location map API key.
